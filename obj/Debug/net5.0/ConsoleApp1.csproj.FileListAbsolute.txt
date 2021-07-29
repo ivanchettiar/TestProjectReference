@@ -1,0 +1,16 @@
+D:\c#miniproject\Miniproject1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\c#miniproject\Miniproject1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\c#miniproject\Miniproject1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\c#miniproject\Miniproject1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\c#miniproject\Miniproject1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\c#miniproject\Miniproject1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\c#miniproject\Miniproject1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\c#miniproject\Miniproject1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\c#miniproject\Miniproject1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#miniproject\Miniproject1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\c#miniproject\Miniproject1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\c#miniproject\Miniproject1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\c#miniproject\Miniproject1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\c#miniproject\Miniproject1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\c#miniproject\Miniproject1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\c#miniproject\Miniproject1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
